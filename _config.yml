@@ -5,3 +5,6 @@ plugins:
 title: "Car Tracker 1.0 beta"
 description: Автоматизированный подсчёт транспотного потока по видео
 show_downloads: "true"
+actual_ver: "1.0beta"
+dist_name: "CarTrackerInstaller"
+dist_ext: ".exe"
