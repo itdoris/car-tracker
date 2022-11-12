@@ -38,10 +38,6 @@ _Car Tracker — программа для определения интенси
 |:---:|:---:|
 | <img src="img\img7.png" alt="Установка" height="165"/>          | <img src="img\img5.png" alt="Установка" height="165"/> |
 
-| Справочное руководство | Установка программы| Графический интерфейс |
-|:---:|:---:|:---:|
-| <img src="img\img5.png" alt="Установка" height="150"/>          | <img src="img\img2.png" alt="Установка" height="150"/> | <img src="img\img3.png" alt="Установка" height="150"/>  |
-
 * * *
 
 ## Установка
