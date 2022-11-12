@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: "Car Tracker 1.0 beta"
-description: Автоматизированный подсчёт транспотного потока по видео
+description: Автоматизированный подсчёт транспортного потока по видео
 show_downloads: "true"
 actual_ver: "1.0beta"
 dist_name: "CarTrackerInstaller"
